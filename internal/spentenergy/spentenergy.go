@@ -79,4 +79,5 @@ func Distance(steps int, height float64) float64 {
 	distanceInKm := distanceInM / mInKm
 
 	return distanceInKm
+
 }

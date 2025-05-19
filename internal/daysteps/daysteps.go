@@ -59,5 +59,4 @@ func (ds DaySteps) ActionInfo() (string, error) {
 	line := fmt.Sprintf(sample, ds.Steps, distance, calories)
 
 	return line, nil
-
 }
